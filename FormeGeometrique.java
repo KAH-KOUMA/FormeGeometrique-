@@ -7,7 +7,7 @@ package ds2kouma.ahamadou2ir;
 
 /**
  *
- * @author Kuma
+ * @author KAH
  */
 public interface FormeGeometrique {
     
