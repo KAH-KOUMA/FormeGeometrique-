@@ -7,7 +7,7 @@ package ds2kouma.ahamadou2ir;
 
 /**
  *
- * @author Muhamedhine
+ * @author KAH
  */
 public class Main {
     public static void main(String [] agrs) {
